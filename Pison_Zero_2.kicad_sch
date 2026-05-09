@@ -1,0 +1,266 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "a97436ae-990b-4643-b8be-d4034d5226cb")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 93.345 27.94)
+		(size 22.225 18.415)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "188e33b4-118b-4336-9720-f7652d6b72eb")
+		(property "Sheetname" "SDIO"
+			(at 93.345 27.2284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sdio.kicad_sch"
+			(at 93.345 46.9396 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Pison_Zero_2"
+				(path "/a97436ae-990b-4643-b8be-d4034d5226cb"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 56.515 25.4)
+		(size 22.86 21.59)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "6a0069f3-898a-4915-ba05-0240ae993edc")
+		(property "Sheetname" "GPIO"
+			(at 56.515 24.6884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "gpio.kicad_sch"
+			(at 56.515 47.5746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Pison_Zero_2"
+				(path "/a97436ae-990b-4643-b8be-d4034d5226cb"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 25.4 27.305)
+		(size 20.32 20.955)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "bf0db908-110d-4c52-91f7-36557c5a4c3a")
+		(property "Sheetname" "Power"
+			(at 25.4 26.5934 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power.kicad_sch"
+			(at 25.4 48.8446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Pison_Zero_2"
+				(path "/a97436ae-990b-4643-b8be-d4034d5226cb"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 212.09 27.94)
+		(size 20.32 19.05)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d7e2c27b-bc44-44db-be7d-c0dffeb06657")
+		(property "Sheetname" "Unknown"
+			(at 212.09 27.2284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "unknown.kicad_sch"
+			(at 212.09 47.5746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Pison_Zero_2"
+				(path "/a97436ae-990b-4643-b8be-d4034d5226cb"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 175.895 29.21)
+		(size 21.59 19.685)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "dc6760fe-4904-4f8d-b6cd-9c2cb338b1bc")
+		(property "Sheetname" "Connector"
+			(at 175.895 28.4984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "conn.kicad_sch"
+			(at 175.895 49.4796 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Pison_Zero_2"
+				(path "/a97436ae-990b-4643-b8be-d4034d5226cb"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 139.065 30.48)
+		(size 17.78 17.78)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f7ca507f-9528-42dd-bd8b-6498ae06c076")
+		(property "Sheetname" "Diff_Signal"
+			(at 139.065 29.7684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "diff.kicad_sch"
+			(at 139.065 48.8446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Pison_Zero_2"
+				(path "/a97436ae-990b-4643-b8be-d4034d5226cb"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
