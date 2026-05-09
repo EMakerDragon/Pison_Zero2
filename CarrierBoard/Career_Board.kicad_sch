@@ -1,0 +1,56 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "2dc92878-1052-44a8-bbea-c6e44604777c")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 133.35 25.4)
+		(size 35.56 27.305)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "56f9887b-35bf-4a54-b865-ce685f197b66")
+		(property "Sheetname" "Pison_M5stack"
+			(at 133.35 24.6884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Pison_Career.kicad_sch"
+			(at 133.35 53.2896 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Career_Board"
+				(path "/2dc92878-1052-44a8-bbea-c6e44604777c"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
